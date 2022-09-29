@@ -15,6 +15,9 @@ Este projeto trata-se de uma Aplicação Desktop de Gerenciamento de uma Locador
 ### Bibliotecas Gráficas: Bootstrap 5 e Fontawesome 5.
 
 ## Material para Estudo e Consulta
+### Documentação Oficial do Projeto
+(em desenvolvimento)
+
 ### Documentação do Django
 https://docs.djangoproject.com/en/4.1/
 
